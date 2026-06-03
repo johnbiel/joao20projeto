@@ -1,0 +1,68 @@
+/* CONTATO */
+
+.contato-hero{
+  text-align:center;
+  padding:80px 20px;
+}
+
+.contato-hero h1{
+  font-size:40px;
+  margin-bottom:10px;
+}
+
+.contato-hero p{
+  color:#aaa;
+}
+
+/* FORM */
+
+.contato-container{
+  display:flex;
+  justify-content:center;
+  padding:40px 20px;
+}
+
+.form-contato{
+  width:400px;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+.form-contato input,
+.form-contato textarea{
+  padding:12px;
+  border:none;
+  border-radius:10px;
+  background:#1a1a1a;
+  color:white;
+  outline:none;
+}
+
+.form-contato button{
+  padding:12px;
+  border:none;
+  border-radius:10px;
+  background:white;
+  cursor:pointer;
+  font-weight:bold;
+}
+
+/* INFO */
+
+.info{
+  display:flex;
+  justify-content:center;
+  gap:20px;
+  flex-wrap:wrap;
+  padding:40px 20px;
+}
+
+.card{
+  background:#1a1a1a;
+  padding:20px;
+  border-radius:15px;
+  min-width:200px;
+  text-align:center;
+  color:#ccc;
+}

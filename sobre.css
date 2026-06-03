@@ -1,0 +1,17 @@
+.sobre-site {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.sobre-site h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.sobre-site p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
